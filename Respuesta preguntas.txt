@@ -1,0 +1,13 @@
+Parte 1
+1. Verdadero
+2. Falso
+3. Verdadero
+4. Falso
+
+Parte 2 
+1.D
+2.C
+3.C
+
+Parte 3
+El método __init__ de la clase Vehiculo está mal definido.
